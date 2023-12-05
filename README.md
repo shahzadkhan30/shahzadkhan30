@@ -16,6 +16,6 @@ Hello! 👋 I'm Shahzad Qaisar, a computer science graduate and a passionate Flu
 You can find my detailed CV [here](shahzadqaisar.web.app).
 
 ## Portfolio Website
-Explore more about my work on my [portfolio website]([link-to-portfolio-website](https://shahzadqaisar.web.app/)).
+Explore more about my work on my [portfolio website](https://shahzadqaisar.web.app).
 
 Feel free to reach out if you have any questions or collaboration ideas! 😊
