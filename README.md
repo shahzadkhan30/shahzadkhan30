@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Shahzad khan
-- 👀 I’m a flutter developer
-- 🌱 I’m currently working as flutter developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Shahzad Qaisar
 
-<!---
-shahzadkhan30/shahzadkhan30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Hello! 👋 I'm Shahzad Qaisar, a computer science graduate and a passionate Flutter developer with 4 years of experience.
+
+## Contact Information
+- **LinkedIn:** [Shahzad Qaisar]([https://www.linkedin.com/in/your-linkedin-profil](https://www.linkedin.com/in/shahzad-qaisar-k)e)
+- **Email:** shahzadqaisarkhan@gmail.com
+
+## Education
+- **Degree:** Bachelor's in Computer Science
+- **University:** Comsats University
+- **Graduation Year:** 2021
+
+## CV
+You can find my detailed CV [here](shahzadqaisar.web.app).
+
+## Portfolio Website
+Explore more about my work on my [portfolio website]([link-to-portfolio-website](https://shahzadqaisar.web.app/)).
+
+Feel free to reach out if you have any questions or collaboration ideas! 😊
