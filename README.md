@@ -1,13 +1,17 @@
-
 <p align="center">
-     <h1>Shahzad Qaisar</h1>
-     <br>
+    <h1>Shahzad Qaisar</h1>
+    <br>
+    <video width="320" height="240" controls>
+        <source src="https://github.com/shahzadkhan30/profile/blob/main/video/flutter.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</p>
 
 ## About Me
-<h4>Hey! I'm Shahzad , computer science graduate. I'm new to Fiverr but, I have 3+ years of experience in (Flutter) mobile and web app development, I have worked with ( Dejure Tech, EvigSol, DigixVelley & Eagle Solution) and completed more then 120 projects, Now I'm here as freelancer. My first goal is always customer satisfaction with my work. DM me to for anywork and query</h4>
+<h4>Hey! I'm Shahzad, a computer science graduate. I'm new to Fiverr but have 3+ years of experience in Flutter mobile and web app development. I have worked with Dejure Tech, EvigSol, DigixVelley & Eagle Solution, and completed more than 120 projects. Now I'm here as a freelancer. My first goal is always customer satisfaction with my work. DM me for any work and queries.</h4>
 
 ## Contact Information
-- **LinkedIn:** [Shahzad Qaisar]([https://www.linkedin.com/in/your-linkedin-profil](https://www.linkedin.com/in/shahzad-qaisar-k)e)
+- **LinkedIn:** [Shahzad Qaisar](https://www.linkedin.com/in/shahzad-qaisar-k)
 - **Email:** shahzadqaisarkhan@gmail.com
 
 ## Education
