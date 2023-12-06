@@ -2,10 +2,9 @@
 <p align="center">
      <h1>Shahzad Qaisar</h1>
      <br>
-      Download apk file 
 
 ## About Me
-<h2>Hello! 👋 I'm Shahzad Qaisar, a computer science graduate and a passionate Flutter developer with 4 years of experience.</h2>
+<h3>Hey! I'm Shahzad , computer science graduate. I'm new to Fiverr but, I have 3+ years of experience in (Flutter) mobile and web app development, I have worked with ( Dejure Tech, EvigSol, DigixVelley & Eagle Solution) and completed more then 60 projects, Now I'm here as freelancer. My first goal is always customer satisfaction with my work. DM me to for anywork and query</h3>
 
 ## Contact Information
 - **LinkedIn:** [Shahzad Qaisar]([https://www.linkedin.com/in/your-linkedin-profil](https://www.linkedin.com/in/shahzad-qaisar-k)e)
